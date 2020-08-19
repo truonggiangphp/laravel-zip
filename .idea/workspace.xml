@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea53560c-f51f-4b89-9df3-33996a6b1b65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zip.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZipFacade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZipManager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZipServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597818681534</updated>
-      <workItem from="1597818682594" duration="627000" />
+      <workItem from="1597818682594" duration="709000" />
     </task>
     <servers />
   </component>
@@ -80,9 +75,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="505" y="233" width="670" height="58" key="search.everywhere.popup" timestamp="1597819366205">
+    <state x="505" y="233" width="670" height="158" key="search.everywhere.popup" timestamp="1597819394086">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="58" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1597819366205" />
+    <state x="505" y="233" width="670" height="158" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1597819394086" />
   </component>
 </project>
